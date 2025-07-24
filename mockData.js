@@ -6,9 +6,9 @@ const portfolioData = {
         title: "Cybersecurity Student & Frontend Developer",
         university: "Ladoke Akintola University of Technology",
         experience: "1+ Years",
-        email: "contact@example.com",
-        github: "github.com/username",
-        linkedin: "linkedin.com/in/username",
+        email: "criconull@gmail.com",
+        github: "github.com/uthman-12",
+        linkedin: "linkedin.com/in/marie-curie",
         bio: "Securing digital frontiers with penetration testing expertise and crafting elegant web experiences with modern technologies."
     },
 
@@ -115,19 +115,19 @@ const portfolioData = {
     socialLinks: [
         {
             name: "Email",
-            url: "mailto:contact@example.com",
+            url: "criconull@gmail.com",
             icon: "mail",
             color: "purple"
         },
         {
             name: "GitHub", 
-            url: "https://github.com/username",
+            url: "https://github.com/uthman-12",
             icon: "github",
             color: "cyan"
         },
         {
             name: "LinkedIn",
-            url: "https://linkedin.com/in/username", 
+            url: "https://linkedin.com/in/marie-curie", 
             icon: "linkedin",
             color: "pink"
         }
